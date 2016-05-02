@@ -17,8 +17,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"golang.org/x/text/internal/gen"
-	"golang.org/x/text/internal/testtext"
+	"gen"
+	"testtext"
 )
 
 var once sync.Once
